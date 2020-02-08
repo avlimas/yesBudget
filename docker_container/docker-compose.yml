@@ -1,0 +1,11 @@
+version: '3'
+services:
+  db_local_budget:
+    restart: always
+    container_name: db_local_budget
+    build: ./postgres
+    image: postgres/db_local/budget:1.0.0
+    ports:
+     - "5432:5432"
+    volumes:
+     - /srv/docker/postgresql:/var/lib/postgresql
