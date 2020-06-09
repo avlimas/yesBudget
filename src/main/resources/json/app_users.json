@@ -1,0 +1,14 @@
+[
+	{
+		"userName": "admin",
+		"fullName":	"Administrator Budget",
+		"userEmail":"admin@gmail.com",
+		"roleName":	"administrator"
+	},
+	{
+		"userName": "alimas",
+		"fullName":	"Andrew Limas",
+		"userEmail":"andrew.limas@yahoo.com",
+		"roleName":	"user"
+	}
+]

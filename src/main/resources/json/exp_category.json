@@ -1,0 +1,47 @@
+[
+	{
+		"expCategoryName":	"Rent"
+	},
+	{
+		"expCategoryName":	"Internet"
+	},
+	{
+		"expCategoryName":	"Water"
+	},
+	{
+		"expCategoryName":	"Electricity"
+	},
+	{
+		"expCategoryName":	"Gas"
+	},
+	{
+		"expCategoryName":	"Car Insurance"
+	},
+	{
+		"expCategoryName":	"Health Insurance"
+	},
+	{
+		"expCategoryName":	"Groceries"
+	},
+	{
+		"expCategoryName":	"Personal Care"
+	},
+	{
+		"expCategoryName":	"Car Maintenance"
+	},
+	{
+		"expCategoryName":	"Car Repairs"
+	},
+	{
+		"expCategoryName":	"Mortgage"
+	},
+	{
+		"expCategoryName":	"Gifts"
+	},
+	{
+		"expCategoryName":	"Books"
+	},
+	{
+		"expCategoryName":	"Games"
+	}
+]

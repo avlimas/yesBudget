@@ -9,3 +9,11 @@ services:
      - "5432:5432"
     volumes:
      - /srv/docker/postgresql:/var/lib/postgresql
+  redis_local_budget:
+    container_name: redis_local_budget
+    build: ./redis
+    image: redis/caching_local/budget:1-0-0
+    ports:
+     - "6379:6379"
+    depends_on:
+     - db_local_budget
