@@ -10,3 +10,4 @@ logs
 # STS related settings
 .project
 .classpath
+.idea
